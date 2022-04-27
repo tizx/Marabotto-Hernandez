@@ -249,7 +249,7 @@ main{
 
 /*contacto*/
 .container-contacto{
-    background-image: url("../img/bg-contacto.jpg");
+    background-image: url("../img/contactos.jpg");
     background-size: 100vw 100vh;
     background-attachment: fixed;
     margin:0;
@@ -519,10 +519,10 @@ main{
     margin-left: -15px;
 }
 .text-lg-left {
-    text-align: left !important;
+    text-align: left;
 }
 .text-right {
-    text-align: right !important;
+    text-align: right;
 }
 .col-xl-6 {
     -ms-flex: 0 0 50%;
@@ -530,7 +530,7 @@ main{
     max-width: 50%;
 }
 .d-lg-block {
-    display: block !important;
+    display: block;
 }
 
 .col-xl-6{
