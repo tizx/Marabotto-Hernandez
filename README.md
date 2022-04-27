@@ -1,4 +1,4 @@
-Tienda Virtual de Mascotas (MAX SHOP)
+Tienda Virtual de Productos tecnologicos (MAX SHOP)
 
 ## Autores
 * Tiziano **Marabotto**
