@@ -17,6 +17,6 @@ Tienda Virtual de Productos tecnologicos (MAX SHOP)
 <<<<<<< HEAD
 :octocat:
 
-Link del Proyecto:  [Examen 1] (git@github.com:tizx/Parcial1-Heranandez-Marabotto.git)
+Link del Proyecto: 
 
 
